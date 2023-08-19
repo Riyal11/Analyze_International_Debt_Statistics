@@ -32,6 +32,10 @@ The analysis involves:
 - `results/`: Contains output files and visualizations.
 - `images/`: Store images used in the README.
 
+Additionally, the main Jupyter Notebook file for the project is located at [`analysis.ipynb`](Analysis.ipynb). This notebook contains all the commands and explanations for the data analysis process, along with the dataset used.
+
+Feel free to explore and navigate through the different directories to get a comprehensive understanding of the project structure.
+
 ## Usage
 
 To replicate this analysis on your local machine:
