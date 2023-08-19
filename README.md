@@ -1,6 +1,6 @@
 # International Debt Data Analysis
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fw%2Fworldbank.asp&psig=AOvVaw1Y-deFYdPY_ry0mQnsVlzm&ust=1692552131851000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiqzpae6YADFQAAAAAdAAAAABAQ)
+![Image](https://github.com/Riyal11/image/blob/51c1cab231ff0153b83ca4fccf2e6e0d5b46ec9d/world_bank.jpg)
 
 
 ## Introduction
